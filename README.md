@@ -162,3 +162,4 @@ _This tier is where great taste lives._ 😄
 **Well Here are the Games:-**
 
 1. [Assassin's Creed Chronicles](https://github.com/Raeonix-J/A-Tier/tree/Assassin's-Creed-Chronicles)
+2. [Trine: Enchanted Edition](https://github.com/Raeonix-J/A-Tier/tree/Trine-Enchanted-Edition)
