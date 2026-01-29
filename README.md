@@ -1,165 +1,147 @@
-# 🅰️ A Tier — Excellence Without Immortality
+# 🏁 Trackmania Turbo — **A Tier (Perfection at a Cost)**
 
-> _“Almost timeless. Completely worth your time.”_
-
----
-
-## 📌 What Is A Tier?
-
-**A Tier** is where **great games live**.
-
-These are experiences that:
-- Do most things right
-- Are easy to recommend
-- Leave strong impressions
-- Respect the player’s time
-
-> A-Tier games are not legendary —  
-> they are **consistently excellent**.
+> _“Restart. Restart. Restart.  
+> Okay… one more run.”_
 
 ---
 
-## 🧠 The Role of A Tier
+## 🏆 Tier Placement
 
-A Tier is the **backbone of gaming history**.
+**Final Verdict:**  
+# 🅰️ **A TIER**
 
-Without A Tier:
-- S Tier wouldn’t stand out
-- Innovation would stall
-- Great ideas wouldn’t evolve
+Mechanically brilliant.  
+Emotionally ruthless.
 
-This tier is about **refinement**, not revolution.
-
----
-
-## 🚫 What Keeps a Game Out of S Tier?
-
-A Tier games often fall short in **one key area**:
-
-- Limited mechanical depth
-- Short lifespan
-- Safe or familiar design
-- Weak long-term impact
-
-They shine brightly —  
-just not **forever**.
+Trackmania Turbo earns A Tier not by being kind —  
+but by being **pure**.
 
 ---
 
-## ✅ Core Traits of A-Tier Games
+## 📜 What Is This Repo?
+
+This repository exists to explain one thing:
+
+> Why **Trackmania Turbo** deserves **A Tier** status  
+> even though it regularly makes players question their life choices.
+
+This is not a comfort game.  
+This is a **discipline game**.
 
 ---
 
-### 🎮 1. Strong, Focused Gameplay
+## 🎮 Design Philosophy: No Mercy, No Excuses
 
-- Mechanics are polished
-- Controls feel good
-- Systems work as intended
+Trackmania Turbo has one rule:
 
-Even if the design isn’t groundbreaking,  
-it’s **reliable and satisfying**.
+> **If you fail, it was you.**
 
----
+There is:
+- No RNG
+- No stat grinding
+- No hidden systems
 
-### 🎨 2. Clear Artistic Identity
+Just:
+- Your input
+- The track
+- The clock
 
-A Tier games know how they want to feel.
-
-- Consistent art direction
-- Memorable soundtracks
-- Cohesive tone
-
-They may not redefine style —  
-but they execute it beautifully.
+And the clock does not forgive.
 
 ---
 
-### 🧩 3. Respectful Design
+## 🧠 Mechanical Excellence
 
-- Clear goals
-- Fair challenge
-- Minimal frustration
+### Why the gameplay is A-Tier:
+- Controls are **tight and consistent**
+- Physics are predictable and learnable
+- Muscle memory is king
+- Improvement is measurable
 
-Failure teaches.  
-Success feels earned.
+Every millisecond shaved feels **earned**.
 
----
-
-### 🔁 4. Replayability (But Finite)
-
-You’ll replay them:
-- To perfect a run
-- To try a new build
-- To enjoy the experience again
-
-But eventually,  
-you feel **complete**.
-
-And that’s okay.
+This is racing distilled to its purest form.
 
 ---
 
-## ⚠️ Common A-Tier Limitations
+## 😭 Why It Hurts So Much
 
-| Limitation | Why It Matters |
-|----------|----------------|
-| Short runtime | Impact doesn’t fully compound |
-| Niche appeal | Not universally engaging |
-| Conservative design | Safe choices over bold risks |
-| Limited innovation | Refines instead of redefines |
+Let’s be honest.
 
-These don’t hurt quality —  
-they limit **legacy**.
+- One mistake can invalidate a perfect run
+- Late-game tracks demand near-flawless execution
+- Gold and Trackmaster times are **mentally taxing**
+- Repetition is mandatory
+
+This is where many players tap out —  
+and that’s completely valid.
 
 ---
 
-## 📊 Tier Comparison
+## 🎯 Focused Vision (No Bloat, No Confusion)
+
+Trackmania Turbo never pretends to be something else.
+
+- No open-world distractions
+- No progression padding
+- No unnecessary features
+
+Just tracks, speed, and mastery.
+
+That clarity alone pushes it above B Tier.
+
+---
+
+## ⚠️ Why It’s Not S Tier
+
+Trackmania Turbo stops short of greatness in one key area:
+
+| Limitation | Impact |
+|----------|--------|
+| Extreme perfection demand | Limits accessibility |
+| High frustration curve | Emotional burnout |
+| Minimal onboarding | New players suffer |
+| Narrow appeal | Not for everyone |
+
+S Tier demands excellence **and** longevity for a wide audience.
+
+Turbo is elite — but niche.
+
+---
+
+## 📊 Tier Summary
 
 
 ---
 
-## 🧠 How You Recognize an A-Tier Game
+## 🧠 Final Verdict
 
-You say things like:
-- “This was really well made”
-- “I had a great time”
-- “I’d recommend this to most people”
-- “I don’t regret playing this at all”
+> **Trackmania Turbo is a game that respects your skill  
+> but does not care about your feelings.**
 
-But you don’t:
-- Obsess over it years later
-- Measure other games against it
+It doesn’t waste your time —  
+but it demands all of it.
 
----
+And for players who thrive on mastery?
 
-## 🏁 Final Definition
-
-> **A Tier is where craftsmanship meets restraint.**
-
-These games don’t chase immortality —  
-they aim for **quality**.
-
-And they hit it.
+That’s exactly why it belongs in **A Tier**.
 
 ---
 
 ## ⭐ TL;DR
 
-A-Tier games:
-- Are fun
-- Are polished
-- Are memorable
-- Are complete
+If you love:
+- Precision
+- Mastery
+- Skill-based progression
 
-They don’t need to be legends  
-to be **worth celebrating**.
+Trackmania Turbo will reward you.
 
----
+If you don’t?
 
-_This tier is where great taste lives._ 😄
+It will punish you relentlessly.
 
 ---
-**Well Here are the Games:-**
 
-1. [Assassin's Creed Chronicles](https://github.com/Raeonix-J/A-Tier/tree/Assassin's-Creed-Chronicles)
-2. [Trine: Enchanted Edition](https://github.com/Raeonix-J/A-Tier/tree/Trine-Enchanted-Edition)
+_Restart count: irrelevant.  
+One clean run is all that matters._ 🥲
