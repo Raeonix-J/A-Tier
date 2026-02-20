@@ -1,167 +1,170 @@
-# 🅰️ A Tier — Excellence Without Immortality
+# Remnant: From the Ashes — Tier Analysis
 
-> _“Almost timeless. Completely worth your time.”_
+**Tier Placement: High Tier A (Borderline S)**
 
----
+This repository provides an interaction-focused analysis of
+Remnant: From the Ashes.
 
-## 📌 What Is A Tier?
+The evaluation prioritizes mechanical depth, mastery progression,
+build diversity, co-op synergy, and replayability.
 
-**A Tier** is where **great games live**.
-
-These are experiences that:
-- Do most things right
-- Are easy to recommend
-- Leave strong impressions
-- Respect the player’s time
-
-> A-Tier games are not legendary —  
-> they are **consistently excellent**.
+No comparison to unrelated titles is used in this assessment.
+The game is evaluated purely on its own structure and design goals.
 
 ---
 
-## 🧠 The Role of A Tier
+## 🎮 Game Overview
 
-A Tier is the **backbone of gaming history**.
+**Title:** Remnant: From the Ashes  
+**Developer:** Gunfire Games  
+**Release Year:** 2019  
+**Genre:** Action RPG / Third-Person Shooter  
+**Core Modes:** Solo and 3-Player Co-op  
 
-Without A Tier:
-- S Tier wouldn’t stand out
-- Innovation would stall
-- Great ideas wouldn’t evolve
-
-This tier is about **refinement**, not revolution.
-
----
-
-## 🚫 What Keeps a Game Out of S Tier?
-
-A Tier games often fall short in **one key area**:
-
-- Limited mechanical depth
-- Short lifespan
-- Safe or familiar design
-- Weak long-term impact
-
-They shine brightly —  
-just not **forever**.
+Remnant blends third-person gunplay with stamina-based combat,
+build customization, and procedural world generation.
 
 ---
 
-## ✅ Core Traits of A-Tier Games
+## 🏆 Final Tier Verdict
+
+### **High Tier A (Borderline S)**
+
+> A mechanically strong, replayable, and co-op-enhanced action RPG
+> with meaningful build diversity and mastery progression,
+> slightly held back by environmental repetition and structural rough edges.
 
 ---
 
-### 🎮 1. Strong, Focused Gameplay
+## 📊 Tier System Reference
 
-- Mechanics are polished
-- Controls feel good
-- Systems work as intended
-
-Even if the design isn’t groundbreaking,  
-it’s **reliable and satisfying**.
-
----
-
-### 🎨 2. Clear Artistic Identity
-
-A Tier games know how they want to feel.
-
-- Consistent art direction
-- Memorable soundtracks
-- Cohesive tone
-
-They may not redefine style —  
-but they execute it beautifully.
+| Tier | Meaning |
+|------|--------|
+| Tier Z | Genre-defining masterpieces |
+| <h3>Tier S</h3> | <h3>Near-perfect execution with exceptional systemic refinement</h3> |
+| **<h2>Tier A</h2>** | **<h2>Excellent mechanical engagement with minor structural limits</h2>** |
+| Tier B | Good but mechanically limited |
+| Tier C | Average |
+| Tier E | Poor |
+| Tier F | Fundamentally broken |
 
 ---
 
-### 🧩 3. Respectful Design
+## 🧠 Design Intent
 
-- Clear goals
-- Fair challenge
-- Minimal frustration
+Remnant aims to deliver:
 
-Failure teaches.  
-Success feels earned.
+- Skill-based combat pressure
+- Build-driven playstyle diversity
+- Replayability via procedural generation
+- Tactical co-op coordination
+- Boss encounters requiring adaptation
 
----
-
-### 🔁 4. Replayability (But Finite)
-
-You’ll replay them:
-- To perfect a run
-- To try a new build
-- To enjoy the experience again
-
-But eventually,  
-you feel **complete**.
-
-And that’s okay.
+It does not aim to be:
+- A narrative-first experience
+- A pure competitive shooter
+- A sandbox RPG
 
 ---
 
-## ⚠️ Common A-Tier Limitations
+## ⚔️ Combat & Mechanical Depth
 
-| Limitation | Why It Matters |
-|----------|----------------|
-| Short runtime | Impact doesn’t fully compound |
-| Niche appeal | Not universally engaging |
-| Conservative design | Safe choices over bold risks |
-| Limited innovation | Refines instead of redefines |
+### Core Combat Strengths
 
-These don’t hurt quality —  
-they limit **legacy**.
+- Responsive third-person gunplay
+- Stamina management
+- Dodge timing under pressure
+- Weapon mod layering
+- Situational positioning
 
----
-
-## 📊 Tier Comparison
-
+Combat rewards pattern recognition and preparation.
 
 ---
 
-## 🧠 How You Recognize an A-Tier Game
+## 🧩 Build Diversity
 
-You say things like:
-- “This was really well made”
-- “I had a great time”
-- “I’d recommend this to most people”
-- “I don’t regret playing this at all”
+Remnant offers meaningful build differentiation through:
 
-But you don’t:
-- Obsess over it years later
-- Measure other games against it
+- Traits progression
+- Weapon mods
+- Armor bonuses
+- Rings and amulets
+- Co-op role distribution
 
----
+Playstyles can meaningfully shift between:
 
-## 🏁 Final Definition
+- Tank-style durability builds
+- Crit-focused DPS
+- Mod-spam casters
+- Summoner pressure builds
+- Hybrid utility roles
 
-> **A Tier is where craftsmanship meets restraint.**
-
-These games don’t chase immortality —  
-they aim for **quality**.
-
-And they hit it.
+This system depth elevates long-term engagement.
 
 ---
 
-## ⭐ TL;DR
+## 🤝 Co-op Impact (Major Strength)
 
-A-Tier games:
-- Are fun
-- Are polished
-- Are memorable
-- Are complete
+Co-op meaningfully enhances the experience by introducing:
 
-They don’t need to be legends  
-to be **worth celebrating**.
+- Role specialization
+- Aggro management
+- Revive tension
+- Resource coordination
+- Emergent clutch moments
+
+Encounters feel more dynamic and strategically layered in co-op.
+
+Co-op does not merely scale difficulty — it expands tactical interaction.
 
 ---
 
-_This tier is where great taste lives._ 😄
+## 🔁 Procedural World Generation
+
+Strengths:
+- Increased replayability
+- Variable boss encounters
+- Hidden events across runs
+
+Limitations:
+- Environmental repetition
+- Reduced handcrafted memorability
+- Some biome fatigue
+
+Procedural design increases longevity but slightly reduces environmental identity.
 
 ---
-**Well Here are the Games:-**
 
-1. [Assassin's Creed Chronicles](https://github.com/Raeonix-J/A-Tier/tree/Assassin's-Creed-Chronicles)
-2. [Trine: Enchanted Edition](https://github.com/Raeonix-J/A-Tier/tree/Trine-Enchanted-Edition)
-3. [Trackmania Turbo](https://github.com/Raeonix-J/A-Tier/tree/Trackmania-Turbo)
-4. [Ryse: Son of Rome](https://github.com/Raeonix-J/A-Tier/tree/Ryse-Son-of-Rome)
+## ⚠️ Why It Is Not Tier S
+
+While extremely strong mechanically, Remnant falls short of Tier S due to:
+
+- Procedural environments limiting world memorability
+- Some boss designs relying heavily on add waves
+- Narrative impact being modest
+- Early biome repetition
+- Minor balance inconsistencies
+
+The game excels in interaction but lacks full systemic polish across all dimensions.
+
+---
+
+## 📌 Conclusion
+
+Remnant: From the Ashes is:
+
+- Mechanically engaging
+- Replayable
+- Build-diverse
+- Co-op enhanced
+- Structurally strong
+
+It earns a **High Tier A** placement —
+borderline S, but not fully refined to perfection.
+
+---
+
+## 📜 Disclaimer
+
+This repository is a fan-made analytical project.
+All rights belong to their respective owners.
