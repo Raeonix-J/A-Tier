@@ -42,7 +42,7 @@ build customization, and procedural world generation.
 |------|--------|
 | Tier Z | Genre-defining masterpieces |
 | <h3>Tier S</h3> | <h3>Near-perfect execution with exceptional systemic refinement</h3> |
-| **<h2>Tier A</h2>** | **<h2>Excellent mechanical engagement with minor structural limits</h2>** |
+| <h2>Tier A</h2> | <h2>Excellent mechanical engagement with minor structural limits</h2> |
 | Tier B | Good but mechanically limited |
 | Tier C | Average |
 | Tier E | Poor |
