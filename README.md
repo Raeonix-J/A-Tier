@@ -1,165 +1,93 @@
-# 🅰️ A Tier — Excellence Without Immortality
+# 🎮 Resident Evil Revelations – Tier Review
 
-> _“Almost timeless. Completely worth your time.”_
+## 📊 Tier Placement
 
----
-
-## 📌 What Is A Tier?
-
-**A Tier** is where **great games live**.
-
-These are experiences that:
-- Do most things right
-- Are easy to recommend
-- Leave strong impressions
-- Respect the player’s time
-
-> A-Tier games are not legendary —  
-> they are **consistently excellent**.
+**Tier: A**
 
 ---
 
-## 🧠 The Role of A Tier
+## 🧠 Overview
 
-A Tier is the **backbone of gaming history**.
-
-Without A Tier:
-- S Tier wouldn’t stand out
-- Innovation would stall
-- Great ideas wouldn’t evolve
-
-This tier is about **refinement**, not revolution.
+*Resident Evil Revelations* is a survival horror game developed by Capcom that blends classic horror elements with modern action mechanics. Set primarily on a derelict cruise ship, the game focuses on atmosphere, exploration, and tension-driven gameplay.
 
 ---
 
-## 🚫 What Keeps a Game Out of S Tier?
+## ✅ Strengths
 
-A Tier games often fall short in **one key area**:
+### 👻 Survival Horror Atmosphere
 
-- Limited mechanical depth
-- Short lifespan
-- Safe or familiar design
-- Weak long-term impact
-
-They shine brightly —  
-just not **forever**.
+* Strong return to classic survival horror design
+* Claustrophobic ship environment enhances tension
+* Effective use of lighting and sound
 
 ---
 
-## ✅ Core Traits of A-Tier Games
+### 🔍 Exploration & Scanner Mechanics
+
+* Genesis scanner introduces a unique gameplay loop
+* Encourages exploration and resource management
+* Adds depth beyond simple combat
 
 ---
 
-### 🎮 1. Strong, Focused Gameplay
+### 🎮 Raid Mode
 
-- Mechanics are polished
-- Controls feel good
-- Systems work as intended
-
-Even if the design isn’t groundbreaking,  
-it’s **reliable and satisfying**.
+* Highly replayable game mode
+* Character progression system
+* Weapon upgrades and customization
+* Variety of missions
 
 ---
 
-### 🎨 2. Clear Artistic Identity
+### 🧟 Enemy Design
 
-A Tier games know how they want to feel.
-
-- Consistent art direction
-- Memorable soundtracks
-- Cohesive tone
-
-They may not redefine style —  
-but they execute it beautifully.
+* Ooze enemies provide unsettling horror elements
+* Good balance between unpredictability and challenge
 
 ---
 
-### 🧩 3. Respectful Design
+## ❌ Weaknesses
 
-- Clear goals
-- Fair challenge
-- Minimal frustration
+### 🔄 Episodic Structure
 
-Failure teaches.  
-Success feels earned.
+* Story pacing feels inconsistent
+* Frequent switching between characters disrupts immersion
 
 ---
 
-### 🔁 4. Replayability (But Finite)
+### 🎯 Combat Feel
 
-You’ll replay them:
-- To perfect a run
-- To try a new build
-- To enjoy the experience again
-
-But eventually,  
-you feel **complete**.
-
-And that’s okay.
+* Movement and shooting can feel stiff
+* Lacks fluidity compared to modern titles
 
 ---
 
-## ⚠️ Common A-Tier Limitations
+### 🧠 Story & Characters
 
-| Limitation | Why It Matters |
-|----------|----------------|
-| Short runtime | Impact doesn’t fully compound |
-| Niche appeal | Not universally engaging |
-| Conservative design | Safe choices over bold risks |
-| Limited innovation | Refines instead of redefines |
-
-These don’t hurt quality —  
-they limit **legacy**.
+* Story is serviceable but not memorable
+* Some characters lack depth
 
 ---
 
-## 📊 Tier Comparison
+### 🎥 Boss Design
 
-
----
-
-## 🧠 How You Recognize an A-Tier Game
-
-You say things like:
-- “This was really well made”
-- “I had a great time”
-- “I’d recommend this to most people”
-- “I don’t regret playing this at all”
-
-But you don’t:
-- Obsess over it years later
-- Measure other games against it
+* Some boss fights feel repetitive
+* Lacks iconic or standout encounters
 
 ---
 
-## 🏁 Final Definition
+## 🏁 Final Verdict
 
-> **A Tier is where craftsmanship meets restraint.**
+*Resident Evil Revelations* delivers a strong survival horror experience with excellent atmosphere and replayable content through Raid Mode.
 
-These games don’t chase immortality —  
-they aim for **quality**.
+While it has some pacing and combat limitations, it remains one of the better modern entries that successfully captures the classic feel of the franchise.
 
-And they hit it.
-
----
-
-## ⭐ TL;DR
-
-A-Tier games:
-- Are fun
-- Are polished
-- Are memorable
-- Are complete
-
-They don’t need to be legends  
-to be **worth celebrating**.
+**Final Tier: A**
 
 ---
 
-_This tier is where great taste lives._ 😄
+## 📌 Tags
+
+`Survival Horror` `Action` `Singleplayer` `Replayable` `Atmospheric`
 
 ---
-**Well Here are the Games:-**
-
-1. 
-2. 
